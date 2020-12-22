@@ -1,5 +1,7 @@
 package code;
-/*
+/**
+ * @author linqi
+ */ /*
  * 7. Reverse Integer
  * 题意：反转一个整数
  * 难度：Easy
